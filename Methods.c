@@ -10,8 +10,8 @@ int main() {
     scanf("%d", &num1);
 
     sum = num1 + num2;
-    diffrence = num1 - num2;
-    product = num1 * nun2;
+    difference = num1 - num2;
+    product = num1 * num2;
     
     if (num2 !=0) {
         quotient = (float)num1 /num2;
@@ -27,3 +27,4 @@ int main() {
 
     return 0;
 }
+
